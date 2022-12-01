@@ -7,9 +7,6 @@ body{
     color:#A1BAAA
 }
 
-section{
-    background-color: antiquewhite;
-}
 
 .imagenes{
     width: 5vw;
@@ -23,6 +20,10 @@ section{
     border: 2px solid;
     border-radius: 50%;
     border-color: #DC8D6C;
+  
+ 
+      
+
 }
 
 .iconos{
@@ -76,5 +77,15 @@ span{
     text-decoration: none !important;
 }
 a{
+    color:#DC8D6C !important;
     text-decoration: none !important; 
+}
+
+
+
+.btn-primary {
+    color:#DC8D6C !important;
+    background-color: white !important;
+    border: none!important;
+
 }
